@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a IT Engineering student!
+
+- 🌱 I’m currently learning C!
+- 📫 Reach to me in discord!: nonamespookz
+
 <!--
 **spookyyio/spookyyio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
