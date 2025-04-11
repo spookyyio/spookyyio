@@ -2,7 +2,7 @@
 
 I'm a IT Engineering student!
 
-- 🌱 I’m currently learning C!
+- 🌱 I'm currently working on utilities for ARMA 3!
 - 📫 Reach to me in discord!: nonamespookz
 
 <!--
