@@ -2,8 +2,10 @@
 
 I'm a IT Engineering student!
 
-- 🌱 I'm currently working on utilities for ARMA 3!
+- 🌱 I'm currently working on utilities for ARMA 3! Check out the two tools I have published!
 - 📫 Reach to me in discord!: nonamespookz
+
+- I'm also learning Lavarel, PHP and Javascript at the moment.
 
 <!--
 **spookyyio/spookyyio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
